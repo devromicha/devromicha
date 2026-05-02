@@ -17,6 +17,7 @@ Currently working with React, Next.js, and TypeScript, focusing on clean UI and 
 * React.js
 * Next.js
 * TypeScript
+* Redux
 * REST API Integration
 * Tailwind CSS, Bootstrap
 
@@ -34,7 +35,7 @@ Currently working with React, Next.js, and TypeScript, focusing on clean UI and 
 
 ## 📫 Contact
 
-* 📧 Email: [romicha.dev@gmail.com](mailto:romicha.dev@gmail.com)
+* 📧 Email: [romicha617@gmail.com](mailto:romicha617@gmail.com)
 * 🔗 LinkedIn: https://www.linkedin.com/
 
 ---
