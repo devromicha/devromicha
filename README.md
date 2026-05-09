@@ -21,17 +21,25 @@
 
 ---
 
-## 👩‍💻 About Me
 
-```typescript
-const romicha = {
-  role: "Frontend Developer @ Softvence Omega",
-  focus: ["React.js", "Next.js", "TypeScript"],
-  passion: "Building scalable, high-performance web apps",
-  currentlyLearning: "Advanced TypeScript patterns & system design",
-  funFact: "I turn Figma designs into pixel-perfect reality ✨"
-};
-```
+---
+
+## 🔥 What improved
+- Added your **real work stack (Redux + API Integration)**
+- Made it more **professional (job-ready wording)**
+- Improved structure for recruiters
+- Added **tools + mindset (very important for hiring)**
+- Clean TypeScript-style profile (modern GitHub trend)
+
+---
+
+If you want next level upgrade, I can also:
+- ⭐ :contentReference[oaicite:0]{index=0}
+- ⭐ :contentReference[oaicite:1]{index=1}
+- ⭐ :contentReference[oaicite:2]{index=2}
+- ⭐ :contentReference[oaicite:3]{index=3}
+
+Just tell me 👍
 
 ---
 
@@ -92,10 +100,32 @@ const romicha = {
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/romichadev/romichadev/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+name: Generate Snake Animation
 
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs every day at midnight
+  workflow_dispatch:        # allows manual trigger
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: romichadev
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ---
 
 ## 🚀 Featured Projects
