@@ -1,60 +1,91 @@
-<!-- 🔵 HEADER BANNER -->
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Romicha%20Parvin&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Romicha%20Parvin&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=58&descSize=18&descColor=ffffff" />
 </p>
 
-<h3 align="center">🚀 Frontend Developer | React | Next.js | TypeScript</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/romicha-parvin-402a16352/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:romicha617@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://romichas-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=romichadev&label=Profile%20Views&color=0e75b6&style=flat" alt="romichadev" />
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I am currently working as a **Frontend Developer at Softvence Omega**, building scalable and high-performance web applications using modern technologies.
-
-I specialize in:
-- ⚛️ React.js & Next.js
-- 🟦 TypeScript
-- 🔗 Redux & API Integration
-- 🎨 Responsive UI development
+```typescript
+const romicha = {
+  role: "Frontend Developer @ Softvence Omega",
+  focus: ["React.js", "Next.js", "TypeScript"],
+  passion: "Building scalable, high-performance web apps",
+  currentlyLearning: "Advanced TypeScript patterns & system design",
+  funFact: "I turn Figma designs into pixel-perfect reality ✨"
+};
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Redux](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux)
-![Bootstrap](https://img.shields.io/badge/Bootstrap5-purple?style=for-the-badge&logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwind-css)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+### ⚙️ Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-teal?style=for-the-badge&logo=netlify)
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=romichadev&show_icons=true&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=romichadev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=romichadev&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romichadev&layout=compact&theme=radical" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romichadev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=romichadev&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -62,27 +93,54 @@ I specialize in:
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/romichadev/romichadev/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🛒 E-commerce Web App (React + Node.js)
-- 📊 Admin Dashboard (Next.js + TypeScript)
-- 💬 Chat App (Socket.io + MERN)
-- 📝 Blog CMS System
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=romichadev&repo=ecommerce-app&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=romichadev&repo=admin-dashboard&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+| 🛒 Project | 📄 Description | 🛠️ Stack |
+|---|---|---|
+| **E-commerce Web App** | Full-featured online store with cart & payments | React, Node.js, MongoDB |
+| **Admin Dashboard** | Analytics and management dashboard | Next.js, TypeScript, Recharts |
+| **Chat Application** | Real-time messaging platform | Socket.io, MERN Stack |
+| **Blog CMS System** | Content management with rich text editor | Next.js, MDX |
 
 ---
 
-## 📫 Contact Me
+## 📈 Activity Graph
 
-- 📧 Email: romicha617@gmail.com  
-- 💼 LinkedIn: [your-linkedin-link  ](https://www.linkedin.com/in/romicha-parvin-402a16352/)
-- 🌐 Portfolio: https://romichas-portfolio.vercel.app/
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=romichadev&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
 ---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/romicha-parvin-402a16352/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  &nbsp;
+  <a href="mailto:romicha617@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://romichas-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
