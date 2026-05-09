@@ -24,7 +24,7 @@
 
 ---
 
-## 🔥 What improved
+## 🔥 About Me
 - Added your **real work stack (Redux + API Integration)**
 - Made it more **professional (job-ready wording)**
 - Improved structure for recruiters
@@ -100,33 +100,9 @@ Just tell me 👍
 
 ## 🐍 Contribution Snake
 
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight
-  workflow_dispatch:        # allows manual trigger
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: romichadev
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
----
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
 
 ## 🚀 Featured Projects
 
