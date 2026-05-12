@@ -127,7 +127,7 @@ Just tell me 👍
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=romichadev&theme=tokyo-night&hide_border=true&area=true" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=romichadev&theme=tokyo-night&hide_border=true&area=true&v=2" />
 </p>
 
 ---
