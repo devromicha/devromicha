@@ -24,27 +24,21 @@
 
 ---
 
-## 🔥 About Me
-const developer = {
-  name:       "Your Name",
-  role:       "Frontend Engineer",
-  location:   "Dhaka, Bangladesh 🇧🇩",
 
-  stack: {
-    core:     ["React", "TypeScript", "Redux Toolkit"],
-    styling:  ["Tailwind CSS", "Styled Components", "CSS Modules"],
-    api:      ["REST", "Axios", "React Query", "WebSocket"],
-    tools:    ["Git", "Vite", "Webpack", "ESLint", "Prettier"],
-    testing:  ["Jest", "React Testing Library"],
-  },
+## 🧑‍💻 About Me
 
-  currentlyLearning: ["Next.js", "React Native", "System Design"],
+I'm a **Frontend Developer** with hands-on professional experience building
+modern web applications since **October 2023**.
 
-  philosophy: "Clean code > Clever code. Ship fast, refactor often.",
+- 💼 Currently working as a **Frontend Developer** — shipping real features in production
+- ⚛️ Day-to-day stack: **React, Next.js, TypeScript, Redux Toolkit & Tailwind CSS**
+- 🔗 Experienced in **REST API integration** — async flows, error handling, loading states
+- 🧱 Strong understanding of **component architecture** and scalable state management
+- 🌱 Continuously improving in **system design** and **performance optimization**
+- 💬 Ask me about **React, Next.js, TypeScript, Redux, or API integration**
+- 🤝 Open to **exciting opportunities** and **open source collaboration**
 
-  openTo:     ["Full-time roles", "Freelance", "Open Source"],
-};
----
+> *"Clean UI is not just how it looks — it's how it works."*
 
 ## 🛠️ Tech Stack
 
