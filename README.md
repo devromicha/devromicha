@@ -25,22 +25,25 @@
 ---
 
 ## 🔥 About Me
-- Added your **real work stack (Redux + API Integration)**
-- Made it more **professional (job-ready wording)**
-- Improved structure for recruiters
-- Added **tools + mindset (very important for hiring)**
-- Clean TypeScript-style profile (modern GitHub trend)
+const developer = {
+  name:       "Your Name",
+  role:       "Frontend Engineer",
+  location:   "Dhaka, Bangladesh 🇧🇩",
 
----
+  stack: {
+    core:     ["React", "TypeScript", "Redux Toolkit"],
+    styling:  ["Tailwind CSS", "Styled Components", "CSS Modules"],
+    api:      ["REST", "Axios", "React Query", "WebSocket"],
+    tools:    ["Git", "Vite", "Webpack", "ESLint", "Prettier"],
+    testing:  ["Jest", "React Testing Library"],
+  },
 
-If you want next level upgrade, I can also:
-- ⭐ :contentReference[oaicite:0]{index=0}
-- ⭐ :contentReference[oaicite:1]{index=1}
-- ⭐ :contentReference[oaicite:2]{index=2}
-- ⭐ :contentReference[oaicite:3]{index=3}
+  currentlyLearning: ["Next.js", "React Native", "System Design"],
 
-Just tell me 👍
+  philosophy: "Clean code > Clever code. Ship fast, refactor often.",
 
+  openTo:     ["Full-time roles", "Freelance", "Open Source"],
+};
 ---
 
 ## 🛠️ Tech Stack
