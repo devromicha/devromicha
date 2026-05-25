@@ -118,7 +118,7 @@ modern web applications since **October 2023**.
 | **Chat Application** | Real-time messaging platform | Socket.io, MERN Stack |
 | **Blog CMS System** | Content management with rich text editor | Next.js, MDX |
 
---
+---
 
 ## 📈 Activity Graph
 
